@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-package_name="InsurancePrediction"
+package_name="BangluruProject"
 
 list_of_files=[
     "github/workflows/.gitkeep",
